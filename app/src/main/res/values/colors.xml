@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verano">#FFF7EF99</color>
+    <color name="primavera">#FFABE188</color>
+    <color name="otoño">#FF823038</color>
+    <color name="invierno">#FF40798C</color>
+</resources>
