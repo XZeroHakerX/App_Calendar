@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">App_Calendar</string>
+    <string name="texto_menu">Comprobador de Estaciones</string>
+    <string name="texto_boton">Selecciona una fecha.</string>
+    <string name="boton_atras">Atrás.</string>
+
+    <string name="textoPrimavera">ES PRIMAVERA!</string>
+    <string name="textoVerano">ES VERANO!</string>
+    <string name="textoOtono">ES OTOÑO!</string>
+    <string name="textoInvierno">ES INVIERNO!</string>
+
+    <string name="poesia_primavera">Brotan colores, perfume en el aire la vida despierta, nada la pare.
+                                    Cantan los pájaros, renace el día, primavera, magia y alegría.Atrás.</string>
+    <string name="poesia_verano">Sol ardiente, cielo azul, risa en el viento, tarde en su luz.
+                                Olas que cantan, arena que abraza,verano eterno que el alma enlaza.</string>
+    <string name="poesia_otono">Hojas doradas, danza en el suelo, susurro del viento, caricia y duelo.
+                                El sol se despide, el aire es frío, otoño llega, pausado y mío.</string>
+    <string name="poesia_invierno">Blanco silencio, nieve en la rama, fuego que cruje, hogar que llama.
+                                Cielos de acero, respiro hondo, invierno reina, frío y profundo.</string>
 </resources>
